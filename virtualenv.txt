@@ -41,7 +41,7 @@ It's better to call it venv, so you could configure your gitignore file automati
 
 You could also set the alias
 
-alias flaskenv="source venv/bin/activate"
+alias venv="source venv/bin/activate"
 
 `flaskenv`
 
